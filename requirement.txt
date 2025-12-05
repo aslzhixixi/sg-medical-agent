@@ -1,0 +1,8 @@
+streamlit
+pandas
+rapidfuzz
+folium
+streamlit-folium
+geopy
+openai
+openpyxl
